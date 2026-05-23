@@ -32,4 +32,5 @@ Integrate Claude Code to implement intelligent task scheduling, complex automati
 - 低延迟局域网通信
 
 ## 长期规划
-接入 Claude Code，实现智能任务调度、复杂自动化、自然语言控制电脑等高级AI功能。
+- 接入 Claude Code，实现智能任务调度、复杂自动化、自然语言控制电脑等高级AI功能。
+- 接入云服务器，反向代理穿透家庭内网，遥控监控摄像头，报警器，家电设备。
